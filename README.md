@@ -1,1 +1,2 @@
-# happReloaded
+# happning
+Weather/Event App
